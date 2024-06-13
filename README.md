@@ -24,6 +24,6 @@ To set up the workflow on your computer:
 4. Browse to the workflow file you downloaded; it will have the **.knwf** extension.
 5. KNIME may prompt you to install extensions; follow the on-screen instructions to do so. You may need to restart KNIME when done.
    ![image](https://github.com/joseteofilo/Chemical-grouping-workflow/assets/21991409/5ac9ac10-38ac-4528-8b51-258ee2b2cfc9)
-   ![image](https://github.com/joseteofilo/Chemical-grouping-workflow/assets/21991409/b8ee8c09-c657-4d04-bc56-1c891c5321c6)
+   ![image](https://github.com/joseteofilo/Chemical-grouping-workflow/assets/21991409/42661b35-8a4a-4b7b-bfde-524e0f6fc430)
 6. Run the workflow with your data!
 
