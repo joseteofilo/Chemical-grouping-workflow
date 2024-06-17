@@ -1,4 +1,5 @@
 ## Democratizing Cheminformatics: Interpretable Chemical Grouping Using an Automated KNIME Workflow
+Thank you for your interest in this MoViz workflow! As a reminder, if you only want to use the workflow, you can access it online from the [NIEHS KNIME Server](https://knime.niehs.nih.gov/knime/webportal/space/). However, if you are interested in running the workflow locally, either to make edits or just see how it works, follow the directions below to install it on your computer.
 
 ### Installation
 #### Prerequisites
