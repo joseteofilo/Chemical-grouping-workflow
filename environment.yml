@@ -1,11 +1,11 @@
-name: moviz5
+name: movizenv
 channels:
   - conda-forge
   - anaconda
   - mordred-descriptor
   - defaults
 dependencies:
-  - python=3.10
+  - python=3.9
   - pip=24.0
   - numpy=1.21.3
   - umap-learn=0.5.3
