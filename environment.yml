@@ -8,6 +8,7 @@ dependencies:
   - python=3.9
   - pip=24.0
   - numpy=1.21.3
+  - pandas=1.5.3
   - umap-learn=0.5.3
   - shap=0.41.0
   - scikit-learn-extra=0.2.0
