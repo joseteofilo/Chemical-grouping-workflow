@@ -29,4 +29,11 @@ To set up the workflow on your computer:
 6. Once KNIME restarts, open File > Preferences. In the left panel, navigate to KNIME > Conda. Click Browse or enter the path to your Anaconda/Miniconda installation (On Windows, this will often be in your AppData or User folder).
    ![image](https://github.com/joseteofilo/Chemical-grouping-workflow/assets/21991409/fe1bd957-b163-4880-befd-07a4bd589b50)
 7. Exit Preferences and run the workflow with your data!
-
+   
+**Note:** If you used the environment.yml file to create an Anaconda environment, the environment should have the default name "movizenv". If you choose to rename the environment, you will need to update that in the workflow:
+1. Control-click on the first component in the workflow ("Upload").
+2. Double click on the node titled "Conda environment propagation"
+3. Select your environment from the dropdown.
+4. Click "OK" and run the workflow.
+ ![github2](https://github.com/user-attachments/assets/57703907-6c1d-4999-8fc7-081bbb3b38ec)
+  
