@@ -28,7 +28,5 @@ To set up the workflow on your computer:
    ![image](https://github.com/joseteofilo/Chemical-grouping-workflow/assets/21991409/42661b35-8a4a-4b7b-bfde-524e0f6fc430)
 6. Once KNIME restarts, open File > Preferences. In the left panel, navigate to KNIME > Conda. Click Browse or enter the path to your Anaconda/Miniconda installation (On Windows, this will often be in your AppData or User folder).
    ![image](https://github.com/joseteofilo/Chemical-grouping-workflow/assets/21991409/fe1bd957-b163-4880-befd-07a4bd589b50)
-7. In Preferences, select KNIME > Python (legacy). Ensure that the Python version is set to "Python 3" and Python Environment Configuration is set to "Conda". Under "Python 3", select the moviz environment in the dropdown.
-   ![image](https://github.com/joseteofilo/Chemical-grouping-workflow/assets/21991409/23d97a63-94fc-430a-8d71-9db13e501b40)
-9. Exit Preferences and run the workflow with your data!
+7. Exit Preferences and run the workflow with your data!
 
