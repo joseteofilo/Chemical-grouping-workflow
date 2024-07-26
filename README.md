@@ -1,5 +1,5 @@
 ## Democratizing Cheminformatics: Interpretable Chemical Grouping Using an Automated KNIME Workflow
-Thank you for your interest in this MoViz workflow! If you are interested in running the workflow locally, either to make edits or just see how it works, follow the directions below to install it on your computer.
+Thank you for your interest in this MoViz chemical grouping workflow! If you are interested in running the workflow locally, either to make edits or just see how it works, follow the directions below to install it on your computer.
 
 ### Installation
 #### Prerequisites
